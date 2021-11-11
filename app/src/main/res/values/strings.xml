@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="add_to_do">Add to do</string>
+    <string name="to_do_list">To do list</string>
+    <string name="to_do_name">To do name</string>
+    <string name="save">Save</string>
+    <string name="to_do_description">To do description</string>
+    <string name="to_do_dedline">To do dedline</string>
+    <string name="to_do_creation_time">To do creation time</string>
+    <string name="urgent">Urgent</string>
+    <string name="todo">TODO</string>
+    <string name="to_do_creation_date">To do creation date</string>
+</resources>
